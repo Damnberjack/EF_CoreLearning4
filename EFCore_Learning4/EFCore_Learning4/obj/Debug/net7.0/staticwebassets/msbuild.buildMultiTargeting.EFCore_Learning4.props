@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EFCore_Learning4.props" />
+</Project>
